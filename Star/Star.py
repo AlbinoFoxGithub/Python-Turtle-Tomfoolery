@@ -1,4 +1,7 @@
 from turtle import *
+
+
+bgcolor('white')
 speed(5)
 color('red', 'yellow')
 begin_fill()

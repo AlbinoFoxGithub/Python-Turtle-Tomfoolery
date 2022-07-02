@@ -1,7 +1,7 @@
 import turtle
 import json
 
-defaultColors = open('./jsons/interesting spiral/default colours.json')
+defaultColors = open('./interesting spiral/Profiles/default.json')
 
 colors = json.load(defaultColors)
 
